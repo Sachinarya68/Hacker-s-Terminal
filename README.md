@@ -88,6 +88,17 @@ Gives the last terminal line a "typing" or "processing" feel by toggling dots.
 
 ---
 
+📁 File Structure
+pgsql
+Copy
+Edit
+📦 Fake-Hacking-Terminal
+ ┣ 📄 index.html
+ ┗ 📄 script.js
+You can also place all JavaScript inline in a single HTML file for simplicity.
+
+---
+
 🙌 **Contributing**
 Got ideas to make it more realistic? Want to add green screen styles, typing sound effects, or terminal themes?
 
