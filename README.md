@@ -86,10 +86,14 @@ let t = setInterval(() => {
 }, 250);
 Gives the last terminal line a "typing" or "processing" feel by toggling dots.
 
-🙌 Contributing
+---
+
+🙌 **Contributing**
 Got ideas to make it more realistic? Want to add green screen styles, typing sound effects, or terminal themes?
 
 Fork this repo and create a pull request! 🔧
 
-⭐️ Show Your Support
+---
+
+⭐️ **Show your Support**
 If you found this project fun or learned something new, drop a ⭐ on the repo or share it with your dev friends! 🤘
