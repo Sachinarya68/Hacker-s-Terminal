@@ -87,11 +87,9 @@ let t = setInterval(() => {
 Gives the last terminal line a "typing" or "processing" feel by toggling dots.
 
 ---
+## 📁 Folder Structure
 
-📁 File Structure
 pgsql
-Copy
-Edit
 📦 Fake-Hacking-Terminal
  ┣ 📄 index.html
  ┗ 📄 script.js
@@ -99,12 +97,12 @@ You can also place all JavaScript inline in a single HTML file for simplicity.
 
 ---
 
-🙌 **Contributing**
+## 🙌 **Contributing**
 Got ideas to make it more realistic? Want to add green screen styles, typing sound effects, or terminal themes?
 
 Fork this repo and create a pull request! 🔧
 
 ---
 
-⭐️ **Show your Support**
+## ⭐️ **Show your Support**
 If you found this project fun or learned something new, drop a ⭐ on the repo or share it with your dev friends! 🤘
