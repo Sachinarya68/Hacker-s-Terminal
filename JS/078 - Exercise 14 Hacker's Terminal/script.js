@@ -14,6 +14,7 @@ const randomDelay = () => {
         }, timeout * 1000);
     })
 }
+
 async function main() {
     let t = setInterval(() => {
         let last = document.body.getElementsByTagName("div");
