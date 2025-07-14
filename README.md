@@ -9,7 +9,7 @@ Welcome to the **Fake Hacking Terminal**, a fun illusion built using basic **Jav
 
 ---
 
-🛠 Technologies Used
+##🛠 Technologies Used
 ✅ HTML
 
 ✅ Inline CSS
